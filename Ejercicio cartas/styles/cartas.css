@@ -1,0 +1,96 @@
+
+h1{
+	text-align: center;
+}
+div{
+	border: 1px solid black;
+	width: 120px;
+	height: 200px;
+	border-radius: 10px;
+}
+#picaa11{
+	width: 15px;
+}
+#picaa12{
+	width: 50px;
+	position: absolute;
+	left: 36;
+	top: 90;
+}
+.a1{
+position: relative;
+left: 450;
+top: 100;
+background-color: rgba(255, 255, 255, 1.0);
+transform: rotate(-30deg);
+z-index: 1;
+}
+.k{
+	color: #FF473E;
+	position: relative;
+	left: 480;
+	top: -102;
+	background-color: rgba(255, 255, 255, 1.0);
+	transform: rotate(-20deg);
+	z-index: 2;
+}
+#diamantek1{
+	width: 20px;
+}
+#diamantek2{
+	width: 50px;
+	position: absolute;
+	left: 36;
+	top: 90;
+}
+.siete{
+	color: #E30A17;
+	position: relative;
+		left: 510;
+		top: -304;
+		background-color: rgba(255, 255, 255, 1.0);
+		transform: rotate(-10deg);
+		z-index: 3;
+}
+#corazon71{
+	width: 20px;
+}
+#corazon72{
+	width: 50px;
+	position: absolute;
+	left: 36;
+	top: 90;
+}
+.a2{
+	position: relative;
+	left: 540;
+	top: -506;
+	background-color: rgba(255, 255, 255, 1.0);
+	z-index: 4;
+}
+
+#trebola21{
+	width: 20px;
+}
+#trebola22{
+	width: 50px;
+	position: absolute;
+	left: 36;
+	top: 90;
+}
+#trebola23{
+	position: absolute;
+	width: 20px;
+	left: 100;
+	top: 140;
+	transform: rotate(180deg);
+}
+#a{
+	position: absolute;
+	width: 20px;
+	left: 100;
+	top: 160;
+	transform: rotate(180deg);
+}
+
+
